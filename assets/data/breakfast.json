@@ -1,0 +1,8 @@
+{
+  "breakfast": 
+	[
+		{"name": "Fried Eggs","price": "19 cents / egg", "calories": "90 calories per egg"},
+		{"name": "Oatmeal","price": "62 cents per package", "calories": "68 calories per package"},
+		{"name": "Mini Wheats Cereal","price": "70 cents per 100g", "calories": "182 calories per cup"}
+  ]
+}

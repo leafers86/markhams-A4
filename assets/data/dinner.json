@@ -1,0 +1,8 @@
+{
+  "dinner": 
+	[
+		{"name": "Pepperoni Pizza", "price": "$5.99 per pizza (Walk-In Special)", "calories": "210 calories / slice"},
+		{"name": "Teriyaki Beef with White Rice","price": "$7.99 per meal", "calories": "639 calories / meal"},
+		{"name": "Cod Fish and Chips","price": "$8.99 per meal", "calories": "840 calories / meal"}
+  ]
+}

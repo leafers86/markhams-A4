@@ -1,0 +1,8 @@
+{
+  "lunch": 
+	[
+		{"name": "McDonalds French Fries","price": "$1.79 (Medium)", "calories": "340 calories / serving"},
+		{"name": "Burger King Whopper","price": "$4.19 per whopper", "calories": "660 calories / whopper"},
+		{"name": "Tim Horton's Crispy Chicken Sandwich", "price": "$5.99 per sandwich", "calories": "460 calories / sandwich"}
+  ]
+}
